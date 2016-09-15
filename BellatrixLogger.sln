@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BellatrixLogger", "BellatrixLogger\BellatrixLogger.csproj", "{79497458-2197-4BEF-A0B8-B80A3B031108}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoggerTest", "LoggerTest\LoggerTest.csproj", "{149DDFF1-0D61-469A-B0BC-BE0413565961}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79497458-2197-4BEF-A0B8-B80A3B031108}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79497458-2197-4BEF-A0B8-B80A3B031108}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79497458-2197-4BEF-A0B8-B80A3B031108}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79497458-2197-4BEF-A0B8-B80A3B031108}.Release|Any CPU.Build.0 = Release|Any CPU
+		{149DDFF1-0D61-469A-B0BC-BE0413565961}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{149DDFF1-0D61-469A-B0BC-BE0413565961}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{149DDFF1-0D61-469A-B0BC-BE0413565961}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{149DDFF1-0D61-469A-B0BC-BE0413565961}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
